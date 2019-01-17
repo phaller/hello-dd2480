@@ -9,3 +9,4 @@ List:
 [Philipp's profile](https://github.com/phaller)
 
 Here is some crucial info about the `Corretto` class. It models espresso with liquor.
+I am improving the docs here.
