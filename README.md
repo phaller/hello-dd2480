@@ -7,3 +7,5 @@ List:
 * item 2
 
 [Philipp's profile](https://github.com/phaller)
+
+You should also have a look at the [overview doc](docs/overview.md).
